@@ -1,6 +1,7 @@
 // Nama: MUH. Reza
 // NIM:    13020220070
 // KELAS: A2
+// Date: selasa 20-02-2024
 
 public class tugas1 {
 
